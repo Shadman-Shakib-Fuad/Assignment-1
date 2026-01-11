@@ -185,3 +185,51 @@
     line-height: 1.6;
 }
 
+.second-brain-section {
+    padding: 120px 0;
+    background: #ffffff;
+}
+
+.second-brain-container {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.second-brain-image img {
+    width: 480px;
+}
+
+.section-label {
+    color: #16a34a;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.second-brain-text {
+    width: 45%;
+}
+
+.second-brain-text h2 {
+    font-size: 42px;
+    margin: 16px 0;
+    color: #0f172a;
+}
+
+.second-brain-text p {
+    color: #475569;
+    margin-bottom: 24px;
+    line-height: 1.6;
+}
+
+.brain-points li {
+    margin-bottom: 12px;
+    color: #0f172a;
+    padding-left: 26px;
+    position: relative;
+    list-style: none;
+}
+
