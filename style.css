@@ -233,3 +233,44 @@
     list-style: none;
 }
 
+.early-access-section {
+    padding: 140px 0;
+}
+
+.early-access-box {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background: #f8f7f4;
+    padding: 80px 60px;
+    border-radius: 14px;
+}
+
+.early-access-box h2 {
+    font-size: 42px;
+    margin-bottom: 16px;
+    color: #0f172a;
+}
+
+.early-access-box p {
+    color: #64748b;
+    margin-bottom: 32px;
+}
+
+.early-access-btn {
+    display: inline-block;
+    background: #4f9465;
+    color: #ffffff;
+    padding: 14px 26px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.early-note {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #64748b;
+}
