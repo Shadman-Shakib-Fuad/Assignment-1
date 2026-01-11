@@ -22,7 +22,6 @@
 
 .nav-logo img {
     height: 42px;
-    display: block;
 }
 
 .nav-links {
@@ -273,4 +272,46 @@
     margin-top: 10px;
     font-size: 14px;
     color: #64748b;
+}
+
+.footer-section {
+    background: var(--Style, rgba(0, 25, 49, 1));
+    color: #ffffff;
+    padding-top: 80px;
+}
+
+.footer-top {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.footer-logo img {
+    height: 42px;
+}
+
+.footer-social p {
+    margin-bottom: 12px;
+    font-size: 14px;
+ color: rgba(255, 255, 255, 1);
+}
+
+.social-icons img {
+    width: 20px;
+    margin-right: 12px;
+    border-radius: 50%;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    text-align: center;
+    padding: 24px 0;
+    font-size: 14px;
+}
+
+.cursor{
+    cursor: pointer;
 }
